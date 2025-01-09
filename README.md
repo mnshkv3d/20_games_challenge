@@ -1,1 +1,2 @@
-# 20_games_challenge
+Game 01:
+-- Flappy bird made with LÖVE
